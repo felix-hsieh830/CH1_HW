@@ -6,7 +6,7 @@ int main(void)
 	printf("Enter three integers:\n");
 	int num1, num2, num3;
 	scanf_s("%d%d%d", &num1, &num2, &num3);
-	
+
 	int max = num1;
 	int min = num1;
 
