@@ -1,0 +1,64 @@
+# Visual Studio / .NET
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Visual Studio cache files
+.vs/
+.vscode/
+*.csproj.dotsettings
+*.sln.dotsettings
+
+## IDE Temp files
+*.tmp
+*.bak
+*.orig
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Test results
+*.trx
+*.coverlet.json
+*.xml
+TestResults/
+coveragereport/
+
+## Other
+*.dll
+*.exe
+*.pdb
+*.aps
+*.ncb
+*.opendb
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.ilk
+*.cache
+
+# Rider
+.idea/
